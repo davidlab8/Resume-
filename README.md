@@ -41,12 +41,12 @@ Platforms and Technology Used: Azure Virtual Machines, osTicket, IIS
 
 Project: 
 Implementing Active Directory (On-Premises) in Azure
-Source: github.com/davidlab8/Active-directory-
+Source: https://github.com/davidlab8/Active-directory-
 Platforms and Technology Used: Azure Virtual Machines, Active Directory, PowerShell
 
 Project: 
 Exploring Azure and Networking Concepts
-Source:  github.com/davidlab8/Network-Security-Groups
+Source:  https://github.com/davidlab8/Network-Security-Groups
 Platforms and Technology Used: Azure Virtual Machines, Network Security Groups, WireShark
 
 EXPERIENCE
